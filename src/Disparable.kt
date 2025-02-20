@@ -1,0 +1,3 @@
+interface Disparable {
+    fun dispara()
+}
